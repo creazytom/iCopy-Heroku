@@ -10,7 +10,7 @@
 [![Stars](https://img.shields.io/github/stars/Nenokkadine/FClone-Bot?style=flat-square&logo=appveyor)](https://github.com/Nenokkadine/FClone-Bot)  
 
 ## Running it Google Colab
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Godcic/iCopy-Heroku/blob/master/iCopy.ipynb) 
+[![Colab](https://github.com/creazytom/iCopy-Heroku/blob/master/iCopy.ipynb) 
  
 ## Deployment to Heroku
 iCopy Version - v0.2.2 (No Web DashBoard Only Bot)
